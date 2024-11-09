@@ -14,7 +14,7 @@ Poznaj, jak otwarty projekt naukowy dla szerokiej społeczności i sztuczna inte
 
 Dowiedz się, jakie metody sztucznej inteligencji stosuje się do wykrywania egzoplanet w danych astronomicznych. Przedstawimy techniki wykrywania tranzytów na krzywych blasku oraz rolę modeli uczenia maszynowego w identyfikacji potencjalnych egzoplanet.
 
-- [Jak wykrywamy planety](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)
+- [Jak wykrywamy planety](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/?intent=021)
 - [Historia odkryć - video](https://www.youtube.com/watch?v=yv4DbU1CWAY)
 - [Ćwiczenie nr 1](https://colab.research.google.com/drive/1B9PTTMJjEAkqe55h_Xbf4Moo7GbZhWb9?usp=sharing)
 
