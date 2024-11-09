@@ -31,3 +31,6 @@ Jak AI jest stosowane do klasyfikacji gwiazd jako członków gromad gwiazdowych.
 ---
 
 Każdy z powyższych tematów zawiera materiały, ćwiczenia i przykłady, które dają obraz jak wygląda praca z zastosowaniem sztucznej inteligencji w analizie danych astronomicznych.
+
+
+[Google Colab](https://colab.research.google.com/)
