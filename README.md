@@ -32,5 +32,8 @@ Jak AI jest stosowane do klasyfikacji gwiazd jako członków gromad gwiazdowych.
 
 Każdy z powyższych tematów zawiera materiały, ćwiczenia i przykłady, które dają obraz jak wygląda praca z zastosowaniem sztucznej inteligencji w analizie danych astronomicznych.
 
-
+### 4. Pomoce
+[ROC i AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=pl)
+[k-NN](https://home.agh.edu.pl/~horzyk/lectures/miw/KNN.pdf)
+[DBSCAN](https://twiki.fotogrametria.agh.edu.pl/pub/Dydaktyka/CwiczNIBN/Ochalek-DBSCAN.pdf)
 [Google Colab](https://colab.research.google.com/)
